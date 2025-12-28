@@ -1,0 +1,4 @@
+{
+  "GOLDEN_FRAME": {"weight": 1.0, "veto_conflict": true, "min_strength": 0.55},
+  "BREAKOUT_PULLBACK": {"weight": 0.8, "veto_conflict": false, "min_strength": 0.45}
+}
